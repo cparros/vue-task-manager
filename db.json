@@ -10,12 +10,12 @@
       "id": 420379,
       "text": "Pick Up Mom",
       "day": "May 24 at 6pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "Walk Dog",
       "day": "Today at 5pm",
-      "reminder": true,
+      "reminder": false,
       "id": 420380
     },
     {
