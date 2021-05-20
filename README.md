@@ -1,5 +1,7 @@
 # vue-task-manager
 
+A simple locally run task manager application completed to overview the Vue.js syntax.
+
 ## Project setup
 ```
 npm install
@@ -7,7 +9,9 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run serve 
+then
+npm run backend
 ```
 
 ### Compiles and minifies for production
